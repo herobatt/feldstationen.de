@@ -1,13 +1,12 @@
 station.id;variable;value
 guelpe;Feldstation:;Ökologische Station Gülpe
-guelpe;Stations-Träger:;Universität Potsdam
+guelpe;Träger:;Universität Potsdam
 guelpe;Landschaft:;liegt in der rezenten Überflutungsaue der Havel und im NSG
 guelpe;Aktuelle Forschung:;Auenökologie, Geländepraktika für Biologie, Geoökologie, Lehramt
 guelpe;Zeitraum:;ganzjährig nutzbar
 guelpe;Räumlichkeiten:;Feldlabor
 guelpe;Ausstattung:;Trockenschrank, Muffelofen, Zentrifuge, 20 Mikroskope, 20 Binokulare, Handbibliothek
 guelpe;Übernachtung:;24 Personen in 4 Mehrbettzimmer, 4 Doppelzimmer, 1 Einbettzimmer, Schlafsack und Bettlaken sind mitzubringen
-guelpe;Belegzeit:;ganzjährig nutzbar
 guelpe;Kosten:;3,50 EUR pro Person und Nacht
 guelpe;Verpflegung:;Selbstverpflegung in Küche
 guelpe;Fachfremde Veranstaltungen:;eingeschränkt möglich
@@ -19,14 +18,13 @@ guelpe;Email:;kgeissle[at]uni-potsdam.de
 guelpe;Anfahrt:;Bahn bis Rathenow oder Neustadt/Dosse, von dort aus 15 bzw. 25 km mit Bus oder Fahrrad
 guelpe;Homepage:;https:://www.uni-potsdam.de/de/ibb/ibb/standorte/guelpe
 rees;Feldstation:;Ökologische Forschungsstation Rees
-rees;Stations-Träger:;Universität zu Köln, Institut für Zoologie
+rees;Träger:;Universität zu Köln, Institut für Zoologie
 rees;Landschaft:;in der Aue des Niederrheins, Auengewässer, terrestrische Auenhabitate, Baggerseen
 rees;Aktuelle Forschung:;Limnologie und Fischökologie der Auengewässer, Neozoen in Gewässern, Aquatisch-terrestrische Kopplung, Öko-evolutionäre Dynamiken
 rees;Zeitraum:;ganzjährig nutzbar
 rees;Räumlichkeiten:;Seminar- und Aufenthaltsräume, Labore, eingeschränkt rollstuhlgerecht
 rees;Ausstattung:;Feldgeräte für limnologische und fischökologische Untersuchungen, PCR-Labor, Gefriertrocknung, Zentrifuge, Trockenschrank, Muffelofen, Kescher, Boot, 16 Mikroskope, 17 Binokulare, Handbibliothek mit umfangreicher Bestimmungsliteratur
 rees;Übernachtung:;26 Personen in 4- und 2-Bettzimmern
-rees;Belegzeit:;ganzjährig nutzbar
 rees;Kosten:;€ 12,50 pro Nacht
 rees;Verpflegung:;Selbstverpflegung in Küche, nächste Einkaufsmöglichkeit 6 km entfernt
 rees;Fachfremde Veranstaltungen:;Forschungszwecke, Lehre, Retreat
@@ -38,7 +36,7 @@ rees;Email:;kristin.scharnweber[at]uni-koeln.de
 rees;Anfahrt:;PKW oder DB (nächster Bahnhof Rees-Millingen)
 rees;Homepage:;https://ecological-field-station.uni-koeln.de/
 Carolinensiel;Feldstation:;Meeresbiologische Wattstation der Universität Münster in Carolinensiel
-Carolinensiel;Stations-Träger:;Universität Münster
+Carolinensiel;Träger:;Universität Münster
 Carolinensiel;Landschaft:;Nationalpark Niedersächsisches Wattenmeer
 Carolinensiel;Aktuelle Forschung:;Marines Plankton, Weichbodenfauna der Gezeitenzone, Klimawandel, Neozoen, Mikroplastik
 Carolinensiel;Zeitraum:;ganzjährig nutzbar
@@ -55,13 +53,13 @@ Carolinensiel;Email:;steeger{AT}uni-muenster.de
 Carolinensiel;Anfahrt:;https://www.uni-muenster.de/Biologie.Zoophysiologie/Station/station/index.html
 Carolinensiel;Homepage:;https://www.uni-muenster.de/Biologie.Zoophysiologie/Station/
 Pevestorf;Feldstation:;Elbauenstation Pevestorf
-Pevestorf;Stations-Träger:;Universität Hamburg - Institute für Zell- und Systembiologie der Tiere
+Pevestorf;Träger:;Universität Hamburg - Institute für Zell- und Systembiologie der Tiere
 Pevestorf;Landschaft:;UNESCO-Biosphärenreservat Flusslandschaft ELBE
 Pevestorf;Aktuelle Forschung:;Geländepraktika für Biologie und Geographie
 Pevestorf;Zeitraum:;ganzjährig nutzbar
 Pevestorf;Räumlichkeiten:;"Seminarraum/Kursraum; Aufenhaltsräume"
 Pevestorf;Ausstattung:;Feldlabor auf Anfrage
-Pevestorf;Übernachtung:;"31 Personen - 5 Individuelle Häusern: 4-3-2 Bettzimmern mit Badenzimmern; Leiterzimmer mit Kaffee-Tee Küche-Badenzimmer"
+Pevestorf;Übernachtung:;"31 Personen - 5 Individuelle Häusern: 4-3-2 Bettzimmern mit Badenzimmern; Leiterzimmer mit Kaffee-Tee Küche-Badezimmer"
 Pevestorf;Kosten:;Auf Anfrage
 Pevestorf;Verpflegung:;Selbsverpflegung (2 Küchen), nächste Einkaufmöglichkeit in Gartow (5-6 km )
 Pevestorf;Fachfremde Veranstaltungen:;Veranstaltungen von Hochschulen, Forschungseinrichtungen und öffentlichen Institutionen, private Institutionen
@@ -72,7 +70,7 @@ Pevestorf;Email:;hara.ortiz.hernandez@uni-hamburg.de
 Pevestorf;Anfahrt:;Fährstraße 11a, 29478 Pevestorf
 Pevestorf;Homepage:;https://www.biologie.uni-hamburg.de/einrichtungen/pevestorf.html
 FauleOrt ;Feldstation:;Biologische Station Faule Ort 
-FauleOrt;Stations-Träger:;Martin-Luther-Universität Halle-Wittenberg 
+FauleOrt;Träger:;Martin-Luther-Universität Halle-Wittenberg 
 FauleOrt;Landschaft:;Nationalpark Ostufer Müritz 
 FauleOrt;Aktuelle Forschung:;Waldsukzessionsprozesse, Geländepraktika für Biologie, Ökologie, Lehramt
 FauleOrt;Zeitraum:;ganzjährig nutzbar
@@ -89,7 +87,7 @@ FauleOrt;Email:;dirk.laemmel@zoologie.uni-halle.de
 FauleOrt;Anfahrt:;Abholung vom Parkplatz Boek mit Stationswart klären, keine eigenständige Pkw-Anreise für Nicht-Universitätsangehörige möglich
 FauleOrt;Homepage:;https://www.zoologie.uni-halle.de/737_1952742/
 Helgoland;Feldstation:;Meeresstation Helgoland
-Helgoland;Stations-Träger:;Alfred-Wegener-Institut Helmholtz-zentrum für Polar- und Meeresforschung
+Helgoland;Träger:;Alfred-Wegener-Institut Helmholtz-zentrum für Polar- und Meeresforschung
 Helgoland;Landschaft:;Nordsee, Naturschutzgebiet Helgoländer Felssockel
 Helgoland;Aktuelle Forschung:;[Ökologie der Schelfmeere](https://www.awi.de/forschung/biowissenschaften/oekologie-der-schelfmeere.html)
 Helgoland;Zeitraum:;ganzjährig
@@ -106,7 +104,7 @@ Helgoland;Email:;"info-helgoland@awi.de; marinestations@awi.de; "
 Helgoland;Anfahrt:;siehe Homepage
 Helgoland;Homepage:;https://www.awi.de/ueber-uns/standorte/helgoland.html
 Sylt;Feldstation:;Wattenmeerstation Sylt
-Sylt;Stations-Träger:;Alfred-Wegener-Institut Helmholtz-zentrum für Polar- und Meeresforschung
+Sylt;Träger:;Alfred-Wegener-Institut Helmholtz-zentrum für Polar- und Meeresforschung
 Sylt;Landschaft:;Wattenmeer
 Sylt;Aktuelle Forschung:;[Ökologie der Küsten](https://www.awi.de/forschung/biowissenschaften/oekologie-der-kuesten.html)
 Sylt;Zeitraum:;ganzjährig

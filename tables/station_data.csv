@@ -10,7 +10,7 @@ guelpe;Übernachtung:;24 Personen in 4 Mehrbettzimmer, 4 Doppelzimmer, 1 Einbett
 guelpe;Kosten:;3,50 EUR pro Person und Nacht
 guelpe;Verpflegung:;Selbstverpflegung in Küche
 guelpe;Fachfremde Veranstaltungen:;eingeschränkt möglich
-guelpe;Ansprechpartner:;Dr. Katja Geißler
+guelpe;Kontakt:;Dr. Katja Geißler
 guelpe;Adresse:;
 guelpe;Telefon:;0049-33875-30621
 guelpe;Fax:;0049-33875-30752
@@ -28,7 +28,7 @@ rees;Übernachtung:;26 Personen in 4- und 2-Bettzimmern
 rees;Kosten:;€ 12,50 pro Nacht
 rees;Verpflegung:;Selbstverpflegung in Küche, nächste Einkaufsmöglichkeit 6 km entfernt
 rees;Fachfremde Veranstaltungen:;Forschungszwecke, Lehre, Retreat
-rees;Ansprechpartner:;Dr. Kristin Scharnweber
+rees;Kontakt:;Dr. Kristin Scharnweber
 rees;Adresse:;Dores-Albrecht-Str. 12, 46459 Rees-Bienen
 rees;Telefon:;0049-2851-8575
 rees;Fax:;nein
@@ -46,7 +46,7 @@ Carolinensiel;Übernachtung:;29 Personen in 7 Mehrbettzimmern, davon 3 Leiterzim
 Carolinensiel;Kosten:;€ 5 pro Person und Nacht
 Carolinensiel;Verpflegung:;Selbstverpflegung (Küche), nächste Einkaufsmöglichkeit in Carolinensiel oder Neuharlingersiel (4-5 km) 
 Carolinensiel;Fachfremde Veranstaltungen:;Veranstaltungen von Hochschulen, Forschungseinrichtungen und öffentlichen Institutionen
-Carolinensiel;Ansprechpartner:;Dr. Hans-Ulrich Steeger
+Carolinensiel;Kontakt:;Dr. Hans-Ulrich Steeger
 Carolinensiel;Adresse:;IIIZP, Universität Münster, Schlossplatz 8, 48143 Münster
 Carolinensiel;Telefon:;0049-251-8323868
 Carolinensiel;Email:;steeger{AT}uni-muenster.de
@@ -63,7 +63,7 @@ Pevestorf;Übernachtung:;"31 Personen - 5 Individuelle Häusern: 4-3-2 Bettzimme
 Pevestorf;Kosten:;Auf Anfrage
 Pevestorf;Verpflegung:;Selbsverpflegung (2 Küchen), nächste Einkaufmöglichkeit in Gartow (5-6 km )
 Pevestorf;Fachfremde Veranstaltungen:;Veranstaltungen von Hochschulen, Forschungseinrichtungen und öffentlichen Institutionen, private Institutionen
-Pevestorf;Ansprechpartner:;Frau Hara Ortiz Hernandez
+Pevestorf;Kontakt:;Frau Hara Ortiz Hernandez
 Pevestorf;Adresse:;IZS, Universität Hamburg, Martin-Luther-King-Platz 3, 20146 Hamburg
 Pevestorf;Telefon:;0049-04042838 4224
 Pevestorf;Email:;hara.ortiz.hernandez@uni-hamburg.de
@@ -80,7 +80,7 @@ FauleOrt;Übernachtung:;1x 10-Personen-Schlafsaal,1x 8-Personen-Schlafsaal, 1x 6
 FauleOrt;Kosten:;in Überarbeitung (derzeit 20€p. Person und Nacht)
 FauleOrt;Verpflegung:;Selbstverpflegung, nächste Einkaufsmöglichkeit in Rechlin 
 FauleOrt;Fachfremde Veranstaltungen:;eingeschränkt möglich bei freien Kapazitäten
-FauleOrt;Ansprechpartner:;Anmeldungen über Sekretariat Martin-Luther-Universität Halle-Wittenberg, Institut für Zoologie, Frau N. Mann 
+FauleOrt;Kontakt:;Anmeldungen über Sekretariat Martin-Luther-Universität Halle-Wittenberg, Institut für Zoologie, Frau N. Mann 
 FauleOrt;Adresse:;Biologische Station Faule Ort, 17248 Rechlin OT Boek, Faule Ort 1
 FauleOrt;Telefon:;15116163502
 FauleOrt;Email:;dirk.laemmel@zoologie.uni-halle.de
@@ -97,7 +97,7 @@ Helgoland;Übernachtung:;"21 Doppel- und 6 Einzelzimmer in Wilhelm-Mielck Gäste
 Helgoland;Kosten:;nur für Unterkunft, gestaffelt
 Helgoland;Verpflegung:;Selbstverpflegung in Gemeinschaftsküchen
 Helgoland;Fachfremde Veranstaltungen:;Nur bei freien Kapazitäten
-Helgoland;Ansprechpartner:;Anmeldung über Webportal (https://accessinfra.awi.de/#/)
+Helgoland;Kontakt:;Anmeldung über Webportal (https://accessinfra.awi.de/#/)
 Helgoland;Adresse:;Biologische Anstalt Helgoland, Postfach 180, 27483 Helgoland
 Helgoland;Telefon:;0 47 25 / 819-0
 Helgoland;Email:;"info-helgoland@awi.de; marinestations@awi.de; "
@@ -114,9 +114,44 @@ Sylt;Übernachtung:;21 EZ und 9 DZ im Mielck-Haus (Anfragen an sylt.guesthouse@a
 Sylt;Kosten:;nur für Unterkunft, gestaffelt
 Sylt;Verpflegung:;Selbstverpflung in Gemeinschaftsküche
 Sylt;Fachfremde Veranstaltungen:;Sitzungsraum für Workshops, Klausuren, sofern Kapazitäten vorhanden
-Sylt;Ansprechpartner:;Anmeldung über Webportal (https://accessinfra.awi.de/#/)
+Sylt;Kontakt:;Anmeldung über Webportal (https://accessinfra.awi.de/#/)
 Sylt;Adresse:;Hafenstraße 43, 25992 List/Sylt 
 Sylt;Telefon:;0 46 51 / 956 0
 Sylt;Email:;info-sylt@awi.de, marinestations@awi.de
 Sylt;Anfahrt:;siehe Homepage
 Sylt;Homepage:;https://www.awi.de/ueber-uns/standorte/sylt.html
+Zingst;Feldstation:;Biologische Station Zingst
+Zingst;Träger:;Universität Rostock, Institut für Biowissenschaften
+Zingst;Landschaft:;Halbinsel Darß-Zingst, Nationalpark Vorpommersche Boddenlandschaft, innere Küstengewässer
+Zingst;Aktuelle Forschung:;Aquatische Ökologie, Planktondynamik, Stoffkreisläufe (Nährstoffe und Elemente), Eutrophierung
+Zingst;Zeitraum:;ganzjährig nutzbar
+Zingst;Räumlichkeiten:;Seminarraum für 15 Personen, 3 Labore, nicht rollstuhlgerecht
+Zingst;Ausstattung:;Feldgeräte (pH, Sauerstoffsättigung, Leitfähigkeit / Salinität), Wasserschöpfer und Sedimentstechrohre, 2 Boote (1x 11 Personen, Thermosalinograph, 1x4 Personen), autonome Messung hydrologischer Parameter im Hafen, Wetterstation, Zentrifugen, Trockenschränke, Muffelofen, Clean Bench, 2 Photometer, CFA-Nährstoffanalyser, TOC Analyser, 6 Kursmikroskope, 1 inverses Mikroskop, 5 Binokulare, Handbibliothek mit umfangreicher Bestimmungsliteratur
+Zingst;Übernachtung:;9 Personen in 3 Zimmern, großes Gelände im Sommer auch zum Zelten
+Zingst;Kosten:;-
+Zingst;Verpflegung:;Selbstverpflegung in Küche, nächste Einkaufsmöglichkeit 5 min zu Fuß
+Zingst;Fachfremde Veranstaltungen:;Gastforscherinnen, Feldexperimente, Exkursionen, Retreat
+Zingst;Kontakt:;PD Rhena Schumann
+Zingst;Adresse:;Mühlenstraße 27, 18374 Zingst
+Zingst;Telefon:;0049-381-4983801
+Zingst;Fax:;nein
+Zingst;Email:;rhena.schumann@uni-rostock.de
+Zingst;Anfahrt:;PKW oder Bahn und Bus (Bushaltestelle 5 min entfernt)
+Zingst;Homepage:;[https://www.bsz.uni-rostock.de/](https://www.bsz.uni-rostock.de/
+Federsee;Feldstation:;Federseestaion
+Federsee;Stations-Träger:;Eberhard Karls Universität Tübingen/Institut für Evolution und Ökologie/Vergleichende Zoologie
+Federsee;Landschaft:;Moor, Federsee
+Federsee;Aktuelle Forschung:;Ökologie der Tiere und Pflanzen, Bodenökologie, Limnologie
+Federsee;Zeitraum:;ganzjährig
+Federsee;Räumlichkeiten:;25 Betten, Kurssaal, Küche, Boot
+Federsee;Ausstattung:;Küche zur Selbstverpflegung
+Federsee;Übernachtung:;25 Betten: — 1 Acht-Bettzimmer (4 Stockbetten) — 3 Vier-Bettzimmer (je 2 Stockbetten) — 4 Einzelzimmer mit Waschbecken — 1 Einzelzimmer ohne Waschbecken
+Federsee;Kosten:;8€/Person*Nacht, 2,50€/Tag*Person (wenn nicht übernachtet wird), 6€/Bettzeug
+Federsee;Verpflegung:;Selbstverpflegung in der vorhandenen Küche möglich
+Federsee;Fachfremde Veranstaltungen:;möglich
+Federsee;Kontakt:;J. Lilien Meyder, Dr. Henri Thomassen
+Federsee;Adresse:;Wellerstraße 5, 88422 Bad Buchau
+Federsee;Telefon:;07071/29-74850
+Federsee;Email:;federseestation@uni-tuebingen.de
+Federsee;Anfahrt:;keine Besonderheiten
+Federsee;Homepage:;[Webseite der Station](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/biologie/institute/evolution-und-oekologie/lehrbereiche/vergleichende-zoologie/federsee/ )

@@ -41,7 +41,7 @@ Carolinensiel;Landschaft:;Nationalpark Niedersächsisches Wattenmeer
 Carolinensiel;Aktuelle Forschung:;Marines Plankton, Weichbodenfauna der Gezeitenzone, Klimawandel, Neozoen, Mikroplastik
 Carolinensiel;Zeitraum:;ganzjährig nutzbar
 Carolinensiel;Räumlichkeiten:;Seminarraum, Kursraum, Trockenlabor, Naßlabor, Außenlabor
-Carolinensiel;Ausstattung:;"Seminarraum - Beamer, Tafel, Whiteboard; Kursraum - 20 Plätze mit Optik, umfangreicher Handapparat mit Bestimmungsliteratur; Trockenlabor - übl. Laborgrundausstattung; Naßlabor - rezirkulierendes Seewasser, Feldmeßgeräte, Netze, Probennehmer"
+Carolinensiel;Ausstattung:;Seminarraum - Beamer, Tafel, Whiteboard, Kursraum - 20 Plätze mit Optik, umfangreicher Handapparat mit Bestimmungsliteratur, Trockenlabor - übl. Laborgrundausstattung, Naßlabor - rezirkulierendes Seewasser, Feldmeßgeräte, Netze, Probennehmer
 Carolinensiel;Übernachtung:;29 Personen in 7 Mehrbettzimmern, davon 3 Leiterzimmer, Bettwäsche ist mitzubringen
 Carolinensiel;Kosten:;€ 5 pro Person und Nacht
 Carolinensiel;Verpflegung:;Selbstverpflegung (Küche), nächste Einkaufsmöglichkeit in Carolinensiel oder Neuharlingersiel (4-5 km) 
@@ -57,9 +57,9 @@ Pevestorf;Träger:;Universität Hamburg - Institute für Zell- und Systembiologi
 Pevestorf;Landschaft:;UNESCO-Biosphärenreservat Flusslandschaft ELBE
 Pevestorf;Aktuelle Forschung:;Geländepraktika für Biologie und Geographie
 Pevestorf;Zeitraum:;ganzjährig nutzbar
-Pevestorf;Räumlichkeiten:;"Seminarraum/Kursraum; Aufenhaltsräume"
+Pevestorf;Räumlichkeiten:;Seminarraum/Kursraum, Aufenhaltsräume
 Pevestorf;Ausstattung:;Feldlabor auf Anfrage
-Pevestorf;Übernachtung:;"31 Personen - 5 Individuelle Häusern: 4-3-2 Bettzimmern mit Badenzimmern; Leiterzimmer mit Kaffee-Tee Küche-Badezimmer"
+Pevestorf;Übernachtung:;31 Personen - 5 Individuelle Häusern: 4-3-2 Bettzimmern mit Badenzimmern, Leiterzimmer mit Kaffee-Tee Küche-Badezimmer
 Pevestorf;Kosten:;Auf Anfrage
 Pevestorf;Verpflegung:;Selbsverpflegung (2 Küchen), nächste Einkaufmöglichkeit in Gartow (5-6 km )
 Pevestorf;Fachfremde Veranstaltungen:;Veranstaltungen von Hochschulen, Forschungseinrichtungen und öffentlichen Institutionen, private Institutionen
@@ -74,7 +74,7 @@ FauleOrt;Träger:;Martin-Luther-Universität Halle-Wittenberg
 FauleOrt;Landschaft:;Nationalpark Ostufer Müritz 
 FauleOrt;Aktuelle Forschung:;Waldsukzessionsprozesse, Geländepraktika für Biologie, Ökologie, Lehramt
 FauleOrt;Zeitraum:;ganzjährig nutzbar
-FauleOrt;Räumlichkeiten:;"Küche,Seminarraum/Kursraum; Schlaf-/Aufenhaltsräume"
+FauleOrt;Räumlichkeiten:;Küche,Seminarraum/Kursraum, Schlaf-/Aufenhaltsräume
 FauleOrt;Ausstattung:;Inventarliste auf Anfrage
 FauleOrt;Übernachtung:;1x 10-Personen-Schlafsaal,1x 8-Personen-Schlafsaal, 1x 6-Bettzimmer, 1x 4-Bettzimmer, 2x 2-Bettzimmer, 1x Einzelzimmer
 FauleOrt;Kosten:;in Überarbeitung (derzeit 20€p. Person und Nacht)
@@ -93,14 +93,14 @@ Helgoland;Aktuelle Forschung:;[Ökologie der Schelfmeere](https://www.awi.de/for
 Helgoland;Zeitraum:;ganzjährig
 Helgoland;Räumlichkeiten:;2 Kursräume (20 und 25 Arbeitsplätze) und 7 Gastlabore
 Helgoland;Ausstattung:;Details zur Ausstattung siehe [Nutzerhandbuch](https://spaces.awi.de/display/MSHS/Marine+Stations+Helgoland+and+Sylt+-+Wiki)
-Helgoland;Übernachtung:;"21 Doppel- und 6 Einzelzimmer in Wilhelm-Mielck Gästehaus für Universitätskurse; Arthur-Hagmeier Gästehaus für Gastforschende (Anfragen an guesthouse-helgoland@awi.de)"
+Helgoland;Übernachtung:;21 Doppel- und 6 Einzelzimmer in Wilhelm-Mielck Gästehaus für Universitätskurse, Arthur-Hagmeier Gästehaus für Gastforschende (Anfragen an guesthouse-helgoland@awi.de)
 Helgoland;Kosten:;nur für Unterkunft, gestaffelt
 Helgoland;Verpflegung:;Selbstverpflegung in Gemeinschaftsküchen
 Helgoland;Fachfremde Veranstaltungen:;Nur bei freien Kapazitäten
 Helgoland;Kontakt:;Anmeldung über Webportal (https://accessinfra.awi.de/#/)
 Helgoland;Adresse:;Biologische Anstalt Helgoland, Postfach 180, 27483 Helgoland
 Helgoland;Telefon:;0 47 25 / 819-0
-Helgoland;Email:;"info-helgoland@awi.de; marinestations@awi.de; "
+Helgoland;Email:;info-helgoland@awi.de, marinestations@awi.de
 Helgoland;Anfahrt:;siehe Homepage
 Helgoland;Homepage:;https://www.awi.de/ueber-uns/standorte/helgoland.html
 Sylt;Feldstation:;Wattenmeerstation Sylt
@@ -108,7 +108,7 @@ Sylt;Träger:;Alfred–Wegener–Institut Helmholtz–Zentrum für Polar- und Me
 Sylt;Landschaft:;Wattenmeer
 Sylt;Aktuelle Forschung:;[Ökologie der Küsten](https://www.awi.de/forschung/biowissenschaften/oekologie-der-kuesten.html)
 Sylt;Zeitraum:;ganzjährig
-Sylt;Räumlichkeiten:;"1 Kursraum mit 18 Arbeitsplätzen; 3 Gastlabore"
+Sylt;Räumlichkeiten:;1 Kursraum mit 18 Arbeitsplätzen, 3 Gastlabore
 Sylt;Ausstattung:;Details zur Ausstattung siehe [Nutzerhandbuch](https://spaces.awi.de/display/MSHS/Marine+Stations+Helgoland+and+Sylt+-+Wiki)
 Sylt;Übernachtung:;21 EZ und 9 DZ im Mielck-Haus (Anfragen an sylt.guesthouse@awi.de)
 Sylt;Kosten:;nur für Unterkunft, gestaffelt
@@ -155,3 +155,20 @@ Federsee;Telefon:;07071/29-74850
 Federsee;Email:;federseestation@uni-tuebingen.de
 Federsee;Anfahrt:;keine Besonderheiten
 Federsee;Homepage:;[Webseite der Station](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/biologie/institute/evolution-und-oekologie/lehrbereiche/vergleichende-zoologie/federsee/ )
+Seeon;Feldstation:;Limnologische Forschungsstation Seeon
+Seeon;Träger:;Ludwig-Maximilians-Universität München
+Seeon;Landschaft:;Eiszerfallslandschaft
+Seeon;Aktuelle Forschung:;https://aquatische-oekologie.bio.lmu.de/forschung/index.html
+Seeon;Zeitraum:;ganzjährig
+Seeon;Räumlichkeiten:;Labore, Büros, Seminarraum, Küche, Werkstatt, Bäder, Klimakammer
+Seeon;Ausstattung:;https://aquatische-oekologie.bio.lmu.de/feldstation/index.html
+Seeon;Übernachtung:;Nur in Ausnahmefällen und nach Absprache, Übernachtungsmöglichkeiten im Ort
+Seeon;Kosten:;-
+Seeon;Verpflegung:;Selbstverpflegung in Küche, nächste Einkaufsmöglichkeit 5 min zu Fuß
+Seeon;Fachfremde Veranstaltungen:;Gastwissenschaftler, Retreats, Exkursionen
+Seeon;Kontakt:;Dr. Maria Stockenreiter
+Seeon;Adresse:;Schulstr. 3, 83370 Seeon
+Seeon;Telefon:;86241400
+Seeon;Email:;seeon@bio.lmu.de , stockenreiter@bio.lmu.de
+Seeon;Anfahrt:;per PKW, ÖPNV begrentzt
+Seeon;Homepage:;https://aquatische-oekologie.bio.lmu.de/feldstation/index.html

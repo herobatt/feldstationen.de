@@ -137,7 +137,7 @@ Zingst;Telefon:;0049-381-4983801
 Zingst;Fax:;nein
 Zingst;Email:;rhena.schumann@uni-rostock.de
 Zingst;Anfahrt:;PKW oder Bahn und Bus (Bushaltestelle 5 min entfernt)
-Zingst;Homepage:;[https://www.bsz.uni-rostock.de/](https://www.bsz.uni-rostock.de/
+Zingst;Homepage:;[https://www.bsz.uni-rostock.de/](https://www.bsz.uni-rostock.de/)
 Federsee;Feldstation:;Federseestaion
 Federsee;Stations-Träger:;Eberhard Karls Universität Tübingen/Institut für Evolution und Ökologie/Vergleichende Zoologie
 Federsee;Landschaft:;Moor, Federsee
@@ -169,6 +169,91 @@ Seeon;Fachfremde Veranstaltungen:;Gastwissenschaftler, Retreats, Exkursionen
 Seeon;Kontakt:;Dr. Maria Stockenreiter
 Seeon;Adresse:;Schulstr. 3, 83370 Seeon
 Seeon;Telefon:;86241400
-Seeon;Email:;seeon@bio.lmu.de , stockenreiter@bio.lmu.de
+Seeon;Email:;seeon@bio.lmu.de, stockenreiter@bio.lmu.de
 Seeon;Anfahrt:;per PKW, ÖPNV begrentzt
 Seeon;Homepage:;https://aquatische-oekologie.bio.lmu.de/feldstation/index.html
+Britz;Feldstation:;Intensivmonitoringfläche Britz
+Britz;Träger:;Thünen-Institut
+Britz;Landschaft:;Wald im BSR Schorfheide-Chorin, Eberswalder Urstromtal 
+Britz;Aktuelle Forschung:;Waldökologie, Wasserhaushalt von Waldstandorten
+Britz;Zeitraum:;ganzjährig
+Britz;Räumlichkeiten:;Seminarraum
+Britz;Ausstattung:;intensives Waldmonitoring, Großlysimeter
+Britz;Übernachtung:;-
+Britz;Kosten:;-
+Britz;Verpflegung:;Selbstverpflegung
+Britz;Fachfremde Veranstaltungen:;-
+Britz;Kontakt:;Dr. Tanja Sanders, Dr. Marco Natkhin
+Britz;Adresse:;"Wiesenstraße, 16230 Britz, Brandenburg (52°52'38.5""N 13°50'04.9"") "
+Britz;Telefon:;03334-3820-340-339, 03334-3820-340
+Britz;Email:;tanja.sanders@thuenen.de, marco.natkhin@thuenen.de
+Britz;Anfahrt:;"per PKW; ÖPNV "
+Britz;Homepage:;[Webseite der Station](https://www.thuenen.de/de/fachinstitute/waldoekosysteme/arbeitsbereiche-neu/oekologie-walddynamik/waldoekologie/versuchsstation-britz)
+Stechlinsee;Feldstation:;IGB Stechlin
+Stechlinsee;Träger:;Leibniz-Institut für Gewässerökologie und Binnenfischerei (IGB)
+Stechlinsee;Landschaft:;Klarwassersee u.a. in weitegehend bewaldetem Einzugsgebiet
+Stechlinsee;Aktuelle Forschung:;Limnologie
+Stechlinsee;Zeitraum:;Ganzjähring
+Stechlinsee;Räumlichkeiten:;Seminarraum, Seelabor (https://www.igb-berlin.de/infrastruktur/seelabor), Labore n.V.
+Stechlinsee;Ausstattung:;Einige Kursmikroskope und Kursbinokulare, Boote, limnologische Gerätschaften n.V. 
+Stechlinsee;Übernachtung:;Bis zu 23 Betten in 2-4-Bettzimmern
+Stechlinsee;Kosten:;10-45 Euro/Bett/Nacht, Küche, Seminarraum
+Stechlinsee;Verpflegung:;Selbstverpflegung in Küche, nächste Einkaufsmöglichkeit 10 km entfernt
+Stechlinsee;Fachfremde Veranstaltungen:;Eingeschränkt möglich
+Stechlinsee;Kontakt:;Mark Gessner
+Stechlinsee;Adresse:;Zur alten Fischerhütte 2
+Stechlinsee;Telefon:;033082 / 6990
+Stechlinsee;Email:;sek3@igb-berlin.de
+Stechlinsee;Anfahrt:;https://www.igb-berlin.de/standorte | Zug RE5 von Berlin oder Rostock bis Fürstenberg/Havel, von dort Bus oder Abholung.
+Stechlinsee;Homepage:;[Webseite der Station](https://www.igb-berlin.de/forschungsgruppen?field_abteilung_target_id=15&themen_target_id=All&programme_target_id=All&sort_by=name&sort_order=ASC)
+Eußerthal;Feldstation:;Ökosystemforschung Anlage Eußerthal (EERES)
+Eußerthal;Träger:;Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU)
+Eußerthal;Landschaft:;Pfälzerwald (Biosphärenreservat Pfälzerwald-Nordvogesen)
+Eußerthal;Aktuelle Forschung:;Gewässer und deren Umland unter dem Einfluss des globalen Wandels
+Eußerthal;Zeitraum:;Ganzjährig
+Eußerthal;Räumlichkeiten:;Seminarräume, Freiladlabor Stehgewässer, Freilandlabor Fließgewässer, Mesokosmenanlagen, Kreislaufanlage
+Eußerthal;Ausstattung:;Nassräume, Küche, Bad, Werkstatt, Büroräume, Kursraum mit Binokularen, versch. Equipment für Monitorings, Umweltbildung (6-12 Jahre)
+Eußerthal;Übernachtung:;wenige - nur nach Absprache
+Eußerthal;Kosten:;bisher keine
+Eußerthal;Verpflegung:;Selbstverpflegung, nächster Supermarkt in Annweiler (8 km)
+Eußerthal;Fachfremde Veranstaltungen:;
+Eußerthal;Kontakt:;Tanja Joschko
+Eußerthal;Adresse:;Birkenthalstraße 13, 76857 Eußerthal, Rheinland-Pfalz
+Eußerthal;Telefon:;06341 28032209
+Eußerthal;Email:;eeres@rptu.de
+Eußerthal;Anfahrt:;PKW Parken vor Ort oder ÖPNV bis Eußerthal (Fußweg 20min)
+Eußerthal;Homepage:;[Webseite der Station](https://nuw.rptu.de/ags/eeres)
+Badsaarow;Feldstation;Forschungsstation für Gewässerökologie Bad Saarow
+Badsaarow;Träger;Brandenburgische Technische Universität (BTU) Cottbus-Senftenberg
+Badsaarow;Landschaft;gelegen am Nordufer des Scharmützelsees, diverse Seen und Fließgewässer
+Badsaarow;Aktuelle Forschung;Limnologie von Seen und Fließgewässern, Stoff- und Energieflüsse in aquatischen Nahrungsnetzen, aquatisch-terrestrische Kopplung, essentielle Nährstoffe, anthropogene Einflüsse auf Gewässer, Klimawandel, Renaturierung und Restaurierung von Gewässern
+Badsaarow;Zeitraum;ganzjährig betrieben
+Badsaarow;Räumlichkeiten;Labore, kleiner Seminarraum, keine Übernachtungsmöglichkeiten im Haus, nicht rollstuhlgerecht
+Badsaarow;Ausstattung;diverse Sonden und Geräte für limnologische Freilandarbeiten, Nährstoffanalytik, Lipid-Analytik, CN-Analysen, Gefriertrocknung, diverse Laborgeräte, Mikroskopierraum, Forschungskatamaran, kleinere Boote, zwei Fahrzeuge
+Badsaarow;Übernachtung;diverse Übernachtungsmöglichkeiten im Ort, in der Station nicht möglich
+Badsaarow;Kosten;keine
+Badsaarow;Verpflegung;Selbstverpflegung, Kochgelegenheit vorhanden, Einkaufsmöglichkeiten im Ort
+Badsaarow;Fachfremde Veranstaltungen;nach Anfrage
+Badsaarow;Kontakt;Prof. Dr. Dominik Martin-Creuzburg
+Badsaarow;Adresse;Seestraße 45, 15526 Bad Saarow
+Badsaarow;Telefon;0049-33631-8943
+Badsaarow;Email;dominik.martin-creuzburg[at]b-tu.de
+Badsaarow;Anfahrt;mit öffentlichen Verkehrsmitteln über Fürstenwalde (Spree), PKW
+Badsaarow;Homepage;[Webseite der Station](https://www.b-tu.de/fg-gewaesseroekologie/)
+Hiddensee;Feldstation:;Biologische Station Hiddensee
+Hiddensee;Träger:;Universität Greifswald
+Hiddensee;Landschaft:;Boddengewässer, offene Ostsee, Küstendünenheiden, Trockenrasen, Salzwiesen u.a.
+Hiddensee;Aktuelle Forschung:;seit 2024 nicht mehr, vorher Gewässerökologie und Ökologie der Küstendünenheiden
+Hiddensee;Zeitraum:;Ganzjährig
+Hiddensee;Räumlichkeiten:;Seminarraum, Kurslabor
+Hiddensee;Ausstattung:;einfache Geräte, Mikroskope, Binokulare, Literatur
+Hiddensee;Übernachtung:;31 Betten in DZ ind EZ
+Hiddensee;Kosten:;zwischen 17 € und 70 €/Person*Nacht abhängig von Saison, Nutzer, EZ/DZ
+Hiddensee;Verpflegung:;Selbstverpflegung, Laden, Bäckerei, Restaurants im Ort
+Hiddensee;Fachfremde Veranstaltungen:;"alle Fachgebiete; (Gelände)kurse, Seminare, Retreats, Workshops"
+Hiddensee;Kontakt:;Grit Kanneberger
+Hiddensee;Adresse:;Biologenweg 15, 18 565 Kloster
+Hiddensee;Telefon:;038300-50251
+Hiddensee;Email:;info.bsh@uni-greifswald.de
+Hiddensee;Anfahrt:;Fähre ab Stralsund (nur Sommer) oder Schaprode. Anfahrt nach Stralsund mit Zug, nach Schaprode mit Zug/Bus/Auto
+Hiddensee;Homepage:;[Webseite der Station](https://www.uni-greifswald.de/struktur/zentrale-einrichtungen/biologische-station-hiddensee/)
